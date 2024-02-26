@@ -9,3 +9,9 @@
    font-size: 30px;
    font-weight: bold;
 }
+
+.flex {
+   display: flex;
+   gap: 20px;
+   align-items: center;
+}
